@@ -182,7 +182,7 @@ BG_move = 0
 Ground = pygame.image.load("background/ground_nobg.png").convert_alpha()
 Ground_move = 0
 
-CTRL1 = pygame.image.load("controlls.png").convert_alpha()
+CTRL1 = pygame.image.load("controls.png").convert_alpha()
 Control_img = pygame.transform.scale_by(CTRL1, 0.1)
 
 #Enemy
