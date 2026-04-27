@@ -42,7 +42,7 @@ You play as a fast-moving cat running through mysterious **ancient underwater ru
 | Key | Action |
 |-----|--------|
 | Space / W / ↑ | Jump / Start Game |
-| S / M / ↓  | Dash |
+| S / M / ↓  | Plunge |
 | Mouse Click | Menu Interaction |
 
 ---
