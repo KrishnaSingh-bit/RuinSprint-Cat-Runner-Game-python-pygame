@@ -98,4 +98,5 @@ All animations, physics, and collisions are manually implemented
 Created as a learning project for game development with Pygame
 
 ###  ⚡ "Run fast. Survive longer. Escape the ruins."
+
 ---
